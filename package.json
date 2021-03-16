@@ -1,0 +1,19 @@
+{
+  "name": "playwright_otus",
+  "version": "1.0.0",
+  "description": "Playwright tests repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriiaIuzhakova/playwright_otus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeriiaIuzhakova/playwright_otus/issues"
+  },
+  "homepage": "https://github.com/ValeriiaIuzhakova/playwright_otus#readme"
+}
