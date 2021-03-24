@@ -4,7 +4,7 @@
   "description": "Playwright tests repository",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/ValeriiaIuzhakova/playwright_otus/issues"
   },
-  "homepage": "https://github.com/ValeriiaIuzhakova/playwright_otus#readme"
+  "homepage": "https://github.com/ValeriiaIuzhakova/playwright_otus#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.13.8",
+    "faker": "^5.4.0",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
